@@ -1,0 +1,32 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of `go build` or `go install`
+bin/
+build/
+dist/
+
+# Temporary files
+*.out
+
+# Coverage reports
+*.cover
+*.coverprofile
+coverage.out
+
+# Logs
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
